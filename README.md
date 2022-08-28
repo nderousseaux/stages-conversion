@@ -2,6 +2,13 @@
 
 Projet ayant pour objectif de projeter sur une carte les différents lieux des stages des élèves. Script convertissant le csv des adresses en csv lisible par google mymaps
 
+
+## Utilisation
+- Mettre le fichier excel dans le dossier `input`
+- Lancer le programme en cliquant sur le fichier `programme.command`
+- Les fichier .csv sont crées dans le dossier `output`
+- Importer les fichiers un par un dans google mymaps.
+
 ## Déroulement
 - Convertion du fichier xls dans le dossier `input` en un fichier csv : `data.csv`.
 - Conversion du fichier `input.csv` en plusieurs csv `nom-filiere.csv`, lisible par google mymaps. On les retrouve dans le dossier `output`.
