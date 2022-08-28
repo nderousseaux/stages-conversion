@@ -48,4 +48,4 @@ if __name__ == '__main__':
     convert_csv_to_csv_filiere(data_file, OUTPUT_FOLDER)
 
     print('Conversion du fichier CSV terminée')
-    print(f'Les fichiers de sorties sont disponibles dans le dossier {OUTPUT_FOLDER}')
+    print(f'Les fichiers de sortie sont disponibles dans le dossier {OUTPUT_FOLDER}')
